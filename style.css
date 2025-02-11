@@ -3,7 +3,7 @@ body{
     background-size: cover;
     color: white;
 }
-.logo{width: 100px ;}
+.logo{width: 100px;}
 h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
@@ -13,6 +13,12 @@ h1{
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 10px 7px rgb(0, 0, 0);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
     color: rgb(255, 255, 255);
     text-shadow: 5px 10px 7px rgb(0, 0, 0);
 }
